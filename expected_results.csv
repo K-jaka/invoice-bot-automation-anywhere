@@ -1,0 +1,9 @@
+invoice_number,invoice_date,due_date,po_number,vendor,subtotal,vat,stated_total,line_items,expected_status
+INV-2026-0101,01-10-2026,31-10-2026,PO-45001,Northwind Textiles B.V.,2271.00,476.91,2747.91,2,VALID
+INV-2026-0102,02-10-2026,01-11-2026,PO-45002,Delta Logistics Services B.V.,1706.40,358.34,2064.74,3,VALID
+INV-2026-0103,03-10-2026,02-11-2026,PO-45003,Polder Print & Packaging,2440.00,512.40,2952.40,1,VALID
+INV-2026-0104,05-10-2026,04-11-2026,PO-45004,Alpine Office Supplies GmbH,2144.25,450.29,2594.54,4,VALID
+INV-2026-0105,06-10-2026,05-11-2026,PO-45005,Canal City IT Consultancy,2590.00,543.90,3133.90,2,VALID
+INV-2026-0106,07-10-2026,06-11-2026,PO-45006,Northwind Textiles B.V.,2360.00,495.60,2855.60,2,VALID
+INV-2026-0107,08-10-2026,07-11-2026,PO-45007,Delta Logistics Services B.V.,708.80,148.85,999.99,2,ERROR: total does not match line items
+INV-2026-0108,09-10-2026,08-11-2026,,Polder Print & Packaging,605.00,127.05,732.05,2,ERROR: missing PO number

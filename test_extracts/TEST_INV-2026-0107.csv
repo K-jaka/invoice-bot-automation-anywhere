@@ -1,0 +1,3 @@
+invoice_number,invoice_date,po_number,total_amount,due_date,subtotal,tax_amount,vendor_name,description,quantity,unit_price,total_price
+INV-2026-0107,08-10-2026,PO-45007,999.99,07-11-2026,708.80,148.85,Delta Logistics Services B.V.,Express parcel shipments,40,14.75,590.00
+INV-2026-0107,08-10-2026,PO-45007,999.99,07-11-2026,708.80,148.85,Delta Logistics Services B.V.,Returns handling,12,9.90,118.80

@@ -1,0 +1,4 @@
+invoice_number,invoice_date,po_number,total_amount,due_date,subtotal,tax_amount,vendor_name,description,quantity,unit_price,total_price
+INV-2026-0102,02-10-2026,PO-45002,"2,064.74",01-11-2026,"1,706.40",358.34,Delta Logistics Services B.V.,Pallet transport DC Venlo – Hilversum,3,420.00,"1,260.00"
+INV-2026-0102,02-10-2026,PO-45002,"2,064.74",01-11-2026,"1,706.40",358.34,Delta Logistics Services B.V.,Warehouse handling,10,35.00,350.00
+INV-2026-0102,02-10-2026,PO-45002,"2,064.74",01-11-2026,"1,706.40",358.34,Delta Logistics Services B.V.,Fuel surcharge,1,96.40,96.40

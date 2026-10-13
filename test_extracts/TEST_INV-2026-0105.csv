@@ -1,0 +1,3 @@
+invoice_number,invoice_date,po_number,total_amount,due_date,subtotal,tax_amount,vendor_name,description,quantity,unit_price,total_price
+INV-2026-0105,06-10-2026,PO-45005,"3,133.90",05-11-2026,"2,590.00",543.90,Canal City IT Consultancy,Data integration consultancy (hours),16,115.00,"1,840.00"
+INV-2026-0105,06-10-2026,PO-45005,"3,133.90",05-11-2026,"2,590.00",543.90,Canal City IT Consultancy,Cloud environment setup,1,750.00,750.00

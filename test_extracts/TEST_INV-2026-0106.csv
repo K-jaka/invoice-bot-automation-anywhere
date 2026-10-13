@@ -1,0 +1,3 @@
+invoice_number,invoice_date,po_number,total_amount,due_date,subtotal,tax_amount,vendor_name,description,quantity,unit_price,total_price
+INV-2026-0106,07-10-2026,PO-45006,"2,855.60",06-11-2026,"2,360.00",495.60,Northwind Textiles B.V.,Recycled polyester yarn (kg),250,6.40,"1,600.00"
+INV-2026-0106,07-10-2026,PO-45006,"2,855.60",06-11-2026,"2,360.00",495.60,Northwind Textiles B.V.,Dyeing service (batch),2,380.00,760.00

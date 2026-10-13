@@ -1,0 +1,5 @@
+invoice_number,invoice_date,po_number,total_amount,due_date,subtotal,tax_amount,vendor_name,description,quantity,unit_price,total_price
+INV-2026-0104,05-10-2026,PO-45004,"2,594.54",04-11-2026,"2,144.25",450.29,Alpine Office Supplies GmbH,Ergonomic office chair,5,289.00,"1,445.00"
+INV-2026-0104,05-10-2026,PO-45004,"2,594.54",04-11-2026,"2,144.25",450.29,Alpine Office Supplies GmbH,Monitor arm,5,74.90,374.50
+INV-2026-0104,05-10-2026,PO-45004,"2,594.54",04-11-2026,"2,144.25",450.29,Alpine Office Supplies GmbH,Desk lamp,5,39.95,199.75
+INV-2026-0104,05-10-2026,PO-45004,"2,594.54",04-11-2026,"2,144.25",450.29,Alpine Office Supplies GmbH,Cable kit,10,12.50,125.00

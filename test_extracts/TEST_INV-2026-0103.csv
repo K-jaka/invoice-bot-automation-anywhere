@@ -1,0 +1,2 @@
+invoice_number,invoice_date,po_number,total_amount,due_date,subtotal,tax_amount,vendor_name,description,quantity,unit_price,total_price
+INV-2026-0103,03-10-2026,PO-45003,"2,952.40",02-11-2026,"2,440.00",512.40,Polder Print & Packaging,"Shoe boxes, printed (x1000)",4,610.00,"2,440.00"

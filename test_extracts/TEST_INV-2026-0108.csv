@@ -1,0 +1,3 @@
+invoice_number,invoice_date,po_number,total_amount,due_date,subtotal,tax_amount,vendor_name,description,quantity,unit_price,total_price
+INV-2026-0108,09-10-2026,,732.05,08-11-2026,605.00,127.05,Polder Print & Packaging,Hang tags (x5000),2,180.00,360.00
+INV-2026-0108,09-10-2026,,732.05,08-11-2026,605.00,127.05,Polder Print & Packaging,Labels (x10000),1,245.00,245.00
